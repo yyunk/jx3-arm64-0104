@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "jxdemo0104.jenkins-x.arm64.linaro.org"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:

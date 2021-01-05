@@ -22,12 +22,6 @@ releases:
   values:
   - ../../versionStream/charts/jx3/jenkins-x-crds/values.yaml.gotmpl
   - jx-values.yaml
-- chart: jx3/jx-pipelines-visualizer
-  version: 0.0.60
-  name: jx-pipelines-visualizer
-  values:
-  - ../../versionStream/charts/jx3/jx-pipelines-visualizer/values.yaml.gotmpl
-  - jx-values.yaml
 - chart: jx3/jx-preview
   version: 0.0.137
   name: jx-preview
